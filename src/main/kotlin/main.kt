@@ -52,7 +52,7 @@ fun main(args: Array<String>) {
     day25
   )
 
-  val CurrentDay = 12
+  val CurrentDay = 14
   val DoAllDays = false
 
   if (DoAllDays) {
